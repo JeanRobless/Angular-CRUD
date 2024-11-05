@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "author": "Jake Tapper",
+      "author": "Jake Requena",
       "country": "Andorra",
       "language": "American",
       "pages": 900,
@@ -35,6 +35,15 @@
       "title": "Captain America is Trash",
       "year": 9030,
       "id": 13
+    },
+    {
+      "author": "Ario masgo",
+      "country": "Algeria",
+      "language": "Español",
+      "pages": 123,
+      "title": "La toxica",
+      "year": 2004,
+      "id": 14
     }
   ],
   "lend": [
